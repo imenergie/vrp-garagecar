@@ -13,4 +13,5 @@ Example:
 
 Start the server. Well done!
 
+It's made for dunko 6.6
 Buy and rent removed. Modified by Energie
