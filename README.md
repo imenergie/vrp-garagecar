@@ -1,5 +1,4 @@
-
-It's made for dunko 6.6 Buy and rent removed.
+Buy and rent removed. Made for dunko 6.6
 
 1. Copy the vrp folder where the vrp folder on the server is located.
 2. From the vrp folder on the server find __resource.lua. Search line: "modules/basic_garage.lua", and add this line next to it "modules/basic_garagecar.lua",
