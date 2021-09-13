@@ -13,5 +13,4 @@ Example:
 
 Start the server. Well done!
 
-
-Modified by Energie
+Buy and rent removed. Modified by Energie
